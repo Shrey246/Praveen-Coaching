@@ -48,7 +48,7 @@ export default function Navbar() {
             Programs
           </Link>
 
-          <Link href="/contact" className="hover:text-teal-400 transition">
+          <Link href="/Contact" className="hover:text-teal-400 transition">
             Contact
           </Link>
 
@@ -79,7 +79,7 @@ export default function Navbar() {
           <Link href="/">Home</Link>
           <Link href="/about">About</Link>
           <Link href="/programs">Programs</Link>
-          <Link href="/contact">Contact</Link>
+          <Link href="/Contact">Contact</Link>
 
           <button className="bg-teal-500 py-2 rounded-lg mt-2">
             Book Session
